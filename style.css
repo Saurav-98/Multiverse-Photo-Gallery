@@ -32,8 +32,8 @@ body {
 }
 .title {
   position: absolute;
-  bottom: 0.5em;
-  left: 0.5em;
+  bottom: 1em;
+  left: 2em;
   font-family: "Source Sans Pro", sans-serif;
   color: white;
 }
